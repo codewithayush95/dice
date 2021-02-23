@@ -57,6 +57,7 @@ font-size: 20px;
 padding: 10px 20px 10px 20px;
 text-decoration: none;
 margin-top: 100px;
+  margin-bottom: 50px;
 }
 
 .btn:hover {
@@ -67,6 +68,7 @@ background-image: -ms-linear-gradient(top, #70c8ff, #368ec9);
 background-image: -o-linear-gradient(top, #70c8ff, #368ec9);
 background-image: linear-gradient(to bottom, #70c8ff, #368ec9);
 text-decoration: none;
+    margin-bottom: 50px;
 }
 .start{
   text-align: center;
